@@ -38,12 +38,12 @@ public class SistemaBatch {
             /*- Na sua aplicação, insira ‘N’ registros na tabela 
             tb_customer_account*/
             
-            //inserindoRegistros1();
-            //inserindoRegistros2();
-            //inserindoRegistros3();
-            //inserindoRegistros4();
-            //inserindoRegistros5();
-            //inserindoRegistros6();
+            inserindoRegistros1();
+            inserindoRegistros2();
+            inserindoRegistros3();
+            inserindoRegistros4();
+            inserindoRegistros5();
+            inserindoRegistros6();
             funcaoCalculoMedia();
         } catch (SQLException erro){
             System.out.println(erro.getMessage());
