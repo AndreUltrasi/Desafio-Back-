@@ -1,1 +1,0 @@
-select * from tb_customer_account
